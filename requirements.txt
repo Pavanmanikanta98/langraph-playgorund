@@ -1,0 +1,9 @@
+langchain
+dotenv
+langchain_community
+langchain_google_genai
+langchain_core
+chromadb
+wikipedia
+youtube_search
+langgraph
