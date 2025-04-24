@@ -7,3 +7,5 @@ chromadb
 wikipedia
 youtube_search
 langgraph
+faiss-cpu
+duckduckgo-search
