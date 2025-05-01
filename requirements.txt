@@ -9,3 +9,5 @@ youtube_search
 langgraph
 faiss-cpu
 duckduckgo-search
+langchain_groq
+streamlit
