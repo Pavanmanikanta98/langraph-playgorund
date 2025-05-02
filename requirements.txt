@@ -11,3 +11,4 @@ faiss-cpu
 duckduckgo-search
 langchain_groq
 streamlit
+yfinance
