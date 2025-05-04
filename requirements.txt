@@ -12,3 +12,5 @@ duckduckgo-search
 langchain_groq
 streamlit
 yfinance
+tiktoken
+langchain_huggingface
