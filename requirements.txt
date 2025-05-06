@@ -13,4 +13,5 @@ langchain_groq
 streamlit
 yfinance
 tiktoken
-langchain_huggingface
+
+langchain_experimental
